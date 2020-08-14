@@ -1,0 +1,14 @@
+﻿ENG
+---
+The ePoll program uses a local server connection for its database (localdb)\MSSQLLocalDB.
+In order to connect to your local database, choose either SQL Server Management Studio or Visual Studio's SQL Server Explorer
+and press Add SQL Server. Choose MSSQLLocalDB from the local tab. Once you have successfully connected to MSSQLLocalDB server, create 
+a new database "ePollDB". Feel free to use ePollAPI/DBTables folders SQL files in order to build the necessary tables.
+
+FI
+---
+ePoll sovellus käyttää lokaalia tietokantayhteyttä (localdb)\MSSQLLocalDB.
+Jotta saat lokaalin yhteyden tietokantaasi, valitse SQL Server Object Explorerissa 
+Add SQL Server ja valitse local välilehdestä MSSQLLocalDB.
+Lisää Databases kansioon uusi kansio "ePollDB" SQL Server Explorerissa.
+Taulujen rakentamiseen käytä hyödyksesi ePollAPI/DBTables-kansion SQL-tiedostoja. 
